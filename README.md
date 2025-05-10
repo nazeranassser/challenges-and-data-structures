@@ -1,1 +1,2 @@
 # challenges-and-data-structures
+Hello, I’m Nazera Nasser. I’m a passionate web developer who loves creating websites and applications that solve real problems. I enjoy taking ideas and turning them into something people can interact with and use easily .
