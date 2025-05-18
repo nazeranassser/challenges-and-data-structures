@@ -1,8 +1,12 @@
 # challenge A : Array Reversal
 This is a simple JavaScript code that reverses an array without using built-in functions. 
 ![](challengeA.PNG)
-
+___
 # Challenge B: Most Frequent Number
 This is a simple JavaScript code that finds the most frequent number in an array. If there are multiple numbers with the same frequency, it returns the first one that appears.
 ![](challengeB.PNG)
+___
+# challenge 2 : Minimum Value
+This is a simple JavaScript function that finds the smallest number in an array by checking each value one by one, without using built-in methods
+![](challenge2.PNG)
 
