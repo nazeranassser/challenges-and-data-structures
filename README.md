@@ -8,5 +8,5 @@ This is a simple JavaScript code that finds the most frequent number in an array
 ___
 # challenge 2 : Minimum Value
 This is a simple JavaScript function that finds the smallest number in an array by checking each value one by one, without using built-in methods
-![](challenge2.PNG)
+![](challenge2copy2.PNG)
 
