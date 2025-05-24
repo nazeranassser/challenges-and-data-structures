@@ -10,3 +10,9 @@ ___
 This is a simple JavaScript function that finds the smallest number in an array by checking each value one by one, without using built-in methods
 ![](challenge2copy2.PNG)
 
+___
+# challenge 3 : reverce characters
+ This is a simple JavaScript function that reverses a string by checking each character one by one from the end to the beginning, without using built-in methods. 
+ ![](challenge3.PNG)
+
+
