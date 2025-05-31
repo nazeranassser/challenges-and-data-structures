@@ -14,5 +14,9 @@ ___
 # challenge 3 : reverce characters
  This is a simple JavaScript function that reverses a string by checking each character one by one from the end to the beginning, without using built-in methods. 
  ![](challenge3.PNG)
+ ___
+ # Challenge 4 : Remove Middle Value From Array
+ This is a simple JavaScript function that removes the middle value from an array by shifting the elements after it one position to the left, without using any built-in methods.
+ ![](challenge4.PNG)
 
 
