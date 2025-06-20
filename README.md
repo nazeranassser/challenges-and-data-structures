@@ -19,6 +19,17 @@ ___
  This is a simple JavaScript function that removes the middle value from an array by shifting the elements after it one position to the left, without using any built-in methods.
  ![](challenge4.PNG)
  # Linked List :
+ ### Add function
  ![](addfunction.PNG)
+ ___
+ ### Remove function
+ ![](removefunction.PNG)
+ ___
+ ### Includes function
+ ![](includesfunction.PNG)
+ ___
+ ### InsertAt function
+ ![](insertAtfunction.PNG)
+
 
 
