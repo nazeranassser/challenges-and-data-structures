@@ -1,4 +1,4 @@
-# Ignore node_modules so it doesn't get uploaded to GitHub
+
 node_modules/
 
 # Ignore log files

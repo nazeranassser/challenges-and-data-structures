@@ -18,18 +18,12 @@ ___
  # Challenge 4 : Remove Middle Value From Array
  This is a simple JavaScript function that removes the middle value from an array by shifting the elements after it one position to the left, without using any built-in methods.
  ![](challenge4.PNG)
+ ___
  # Linked List :
- ### Add function
- ![](addfunction.PNG)
+ [the README file for the linked list](/data-structers/linkedlist/README.md)
  ___
- ### Remove function
- ![](removefunction.PNG)
- ___
- ### Includes function
- ![](includesfunction.PNG)
- ___
- ### InsertAt function
- ![](insertAtfunction.PNG)
+# Linked List Reverse :
+[the README file for the reversed linked list](/data-structers/linkedlist/reverse/README.md)
 
 
 
