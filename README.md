@@ -24,6 +24,9 @@ ___
  ___
 # Linked List Reverse :
 [the README file for the reversed linked list](/data-structers/linkedlist/reverse/README.md)
+___
+# Linked List Merge Sorted Lists
+[the README file for the Linked List Merge Sorted Lists] (/data-structers/linkedlist/MergeSorted/README.md)
 
 
 
