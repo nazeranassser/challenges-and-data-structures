@@ -44,19 +44,18 @@ class LinkedList {
   }
 
   printList() {
-    if (!this.head) {
-      console.log("Head -> Null");
-      return;
-    }
-    let current = this.head;
-    let result = "Head -> ";
-    while (current) {
-      result += current.data + " -> ";
-      current = current.next;
-    }
-    result += "Null";
-    console.log(result);
+  if (!this.head) return "Head -> Null";
+
+  let current = this.head;
+  let result = "Head -> ";
+  while (current) {
+    result += current.data + " -> ";
+    current = current.next;
   }
+  result += "Null";
+  return result;
+}
+
 
   includes(data) {
     let current = this.head;
