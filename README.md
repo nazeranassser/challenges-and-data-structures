@@ -27,6 +27,9 @@ ___
 ___
 # Linked List Merge Sorted Lists:
 [the README file for the Linked List Merge Sorted Lists](/data-structers/linkedlist/MergeSorted/README.md)
+___
+# Linked List rotate by K:
+[the README file for the Linked List rotate by K](/data-structers/linkedlist/rotatelinkedlist/README.md)
 
 
 
