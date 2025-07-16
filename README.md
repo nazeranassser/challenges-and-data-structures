@@ -31,6 +31,7 @@ ___
 # Linked List rotate by K:
 [the README file for the Linked List rotate by K](/data-structers/linkedlist/rotatelinkedlist/README.md)
 
-
-
+___
+# Stack and Queue implementation :
+[the README file for the stack and queue](/data-structers/stack&queue/stack&queue_implementation/README.md)
 
