@@ -34,4 +34,8 @@ ___
 ___
 # Stack and Queue implementation :
 [the README file for the stack and queue](/data-structers/stack&queue/stack&queue_implementation/README.md)
+___
+# Delete Middle Element of a Stack
+[the README file for the Delete Middle Element of a Stack](/data-structers/stack&queue/DeleteMiddelElement/README.md)
+
 
