@@ -43,5 +43,8 @@ ___
 ___
 # Binary Tree and Binary Search Tree Implementation
 [the README file for the Binary Tree and Binary Search Tree](/data-structers/trees/README.md)
+___
+# Binary Tree - Second Maximum Value
+[the README file for the Binary Tree - Second Maximum Value](/data-structers/trees/secondmaxvalue/README.md)
 
 
