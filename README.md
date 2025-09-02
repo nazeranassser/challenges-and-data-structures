@@ -46,5 +46,7 @@ ___
 ___
 # Binary Tree - Second Maximum Value
 [the README file for the Binary Tree - Second Maximum Value](/data-structers/trees/secondmaxvalue/README.md)
-
+___
+# Binary Tree - sum of leaf nodes
+[the README file for the Binary Tree - sum of leaf nodes](/data-structers/trees/leafsum/README.md)
 
